@@ -1,7 +1,3 @@
-**Adapted and completed by Prasanth.**
-
-_This project was originally created by the repository's previous author and has been edited and completed by Prasanth to reflect my implementation and contributions._
-
 # RAILWAY MANAGEMENT SYSTEM DBMS PROJECT
 
 Project Background:
